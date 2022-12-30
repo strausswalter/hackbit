@@ -1,0 +1,5 @@
+NEXT_PUBLIC_SANITY_TOKEN = digitar_token_publico_Sanity_sem_aspas_ou_espaços
+
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY = digitar_chave_publica_Stripe_sem_aspas_ou_espaços
+
+NEXT_PUBLIC_STRIPE_SECRET_KEY = digitar_chave_secreta_Stripe_sem_aspas_ou_espaços
