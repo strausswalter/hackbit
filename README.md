@@ -1,6 +1,8 @@
 ## HackBit Comercio Eletronico de Equipamentos de Informática
 Projeto para template de lojas virtuais
 
+
+
 npx create-next-app (não necessario se copiar as pastas)
     y
     nome-projeto (melhor copiar os arquivos para nao criar subpasta)
